@@ -1,8 +1,12 @@
+# Deploy
+
+[https://develop--starlit-sunshine-d24bd4.netlify.app/]
+
 # GraphiQL
 
 ## Project Description
 
-This is a Single Page Application built using React, Vite.
+A sandbox for GraphQL queries. This is a Single Page Application built using React, Vite.
 
 ## Tech Stack
 
